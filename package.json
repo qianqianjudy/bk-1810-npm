@@ -1,0 +1,18 @@
+{
+  "name": "bk-1810-bub",
+  "version": "1.0.0",
+  "description": "A test pageage",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "publish"
+  ],
+  "repository":{
+      "type":"Git",
+      "url":"git+http://github.com/blackwuxin/testdemo.git"
+  },
+  "author": "qianJudy",
+  "license": "MIT"
+}
